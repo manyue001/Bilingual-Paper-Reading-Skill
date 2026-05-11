@@ -1,9 +1,11 @@
 <p align="center">
   <h1 align="center">不读论文 · Skill</h1>
 </p>
-
 <p align="center">
-  不是真的不读论文，是真的不想痛苦地读论文。
+  <img src="./c3f51d017e5dc22571c894ee0bf3df41.jpg" width="760" alt="不读论文">
+</p>
+<p align="center">
+  不看论文一时爽，一直不看论文一直爽
 </p>
 
 <p align="center">
