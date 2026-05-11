@@ -1,0 +1,3 @@
+interface:
+  display_name: "Paper LaTeX Review"
+  short_description: "Turn research paper PDFs into bilingual LaTeX review reports."
