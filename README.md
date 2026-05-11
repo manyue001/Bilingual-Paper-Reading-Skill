@@ -1,2 +1,6 @@
-# Bilingual-Paper-Reading-Skill
-This repository provides a ChatGPT Skill package and a portable prompt/workflow for bilingual academic paper reading. Platforms that support Agent Skills can install the packaged skill.zip directly. Other AI assistants can reuse the SKILL.md instructions as a prompt template.
+论文太长？公式太密？baseline 太多？  
+别再在 PDF 里迷路了。
+
+双语论文精读 Skill 可以将学术论文 PDF 转化为结构化的中英双语 LaTeX 笔记，自动整理摘要、创新点、方法公式、代表模型、术语解释、可复现性与国际研究现状。
+
+从“我好像看过”到“我真的懂了”，只差一个 Skill。
